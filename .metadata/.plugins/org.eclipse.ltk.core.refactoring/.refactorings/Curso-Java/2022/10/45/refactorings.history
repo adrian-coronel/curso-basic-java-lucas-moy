@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copiar elemento «GestorClientes.java» a «Sistema de Gestion Cliente con SQL/src/com.mycompany.sistemagestion.view»&#x0D;&#x0A;- Proyecto original: «Curso-Java»&#x0D;&#x0A;- Elemento destino: «Sistema de Gestion Cliente con SQL/src/com.mycompany.sistemagestion.view»&#x0D;&#x0A;- Elemento original: «JFrames.GestorClientes.java»" description="Copiar unidad de compilacion" destination="=Sistema de Gestion Cliente con SQL/src&lt;com.mycompany.sistemagestion.view" element1="/src&lt;JFrames{GestorClientes.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1667088913974" units="1" version="1.0"/>
+</session>

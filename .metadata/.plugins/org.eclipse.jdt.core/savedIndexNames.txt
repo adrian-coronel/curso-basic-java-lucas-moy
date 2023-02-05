@@ -1,0 +1,8 @@
+INDEX VERSION 1.131+C:\Users\Rocky\Curso-LucasMoy\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+2745671061.index
+4100605879.index
+2541044237.index
+3689961639.index
+2979567106.index
+1271859974.index

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Encapsular campo &apos;com.mycompany.sistemasgestion.models.Cliente.id&apos; en &apos;com.mycompany.sistemasgestion.models.Cliente&apos;&#x0D;&#x0A;- Proyecto original: «Sistema de Gestion Cliente con SQL»&#x0D;&#x0A;- Elemento original: «com.mycompany.sistemasgestion.models.Cliente.id»&#x0D;&#x0A;- Nombre de método de consulta: «getId»&#x0D;&#x0A;- Nombre de método de establecimiento: «setId»&#x0D;&#x0A;- Visibilidad de campo: «public»&#x0D;&#x0A;- Utilizar métodos de obtención y establecimiento en tipo declarante" comments="false" declaring="true" description="Encapsular campo &apos;id&apos;" flags="589830" getter="getId" id="org.eclipse.jdt.ui.self.encapsulate" input="/src&lt;com.mycompany.sistemasgestion.models{Cliente.java[Cliente^id" insertion="8" setter="setId" stamp="1667104336907" version="1.0" visibility="1"/>
+</session>
